@@ -1,0 +1,9 @@
+name: Update UI
+main: SkulZDev\Main
+api: 4.0.0
+author: SkulZOnTheYT
+version: 1.0.0
+
+commands:
+  Join UI X:
+    description: "§ePluginPlugin By SkulZDev"
