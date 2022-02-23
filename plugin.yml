@@ -1,0 +1,15 @@
+name: Join UI X
+main: SkulZTeams\Teleport UI\main
+author: SkulZOnTheYT
+api: 4.0.0
+version: 1.0-Beta
+
+commands:
+  joinui:
+    description: use Command Join UI X
+    permission:joinui.use
+
+permission:
+  joinui.use:
+    description: Permission Use Command Join Ui X
+    default:true
