@@ -20,7 +20,7 @@ use pocketmine\command;
 
 use pocketmine\commnad\CommandSender;
 
-class main extends public PluginBase {
+class main extends PluginBase {
 
     
 
