@@ -40,7 +40,7 @@ class main extends PluginBase {
 
     
 
-    public function onCommand(CommandSender $sender, Command $cmd, string $label, array $args): bool{
+     function onCommand(CommandSender $sender, Command $cmd, string $label, array $args): bool{
 
         switch($cmd->getName()){
 
@@ -68,7 +68,7 @@ class main extends PluginBase {
 
     
 
-    public function openMyForm($sender){
+     function openMyForm($sender){
 
         $api = $this->getServer()->getPluginManager()->getPlugin("FormAPI");
 
