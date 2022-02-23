@@ -4,10 +4,10 @@ author: SkulZOnTheYT
 api: 4.0.0
 version: 1.0
 
-commands:
-  joinui:
-    description: use Command Join UI X
-    permission:joinui.use
+
+
+
+ 
 
 
 
