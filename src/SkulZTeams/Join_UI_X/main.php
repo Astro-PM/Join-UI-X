@@ -26,7 +26,7 @@ class main extends PluginBase {
 
     public function onEnable():void {
 
-        $this->getLogger()->info"Plugin Active"
+        $this->getLogger()->info"Plugin Active
 
     }
 
