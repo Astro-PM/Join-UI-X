@@ -1,6 +1,6 @@
 <?php
 
-namespace SkulZDev;
+namespace SkulZTeams\Join UI X;
 
 use pocketmine\Player;
 
