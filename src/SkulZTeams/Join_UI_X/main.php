@@ -1,6 +1,6 @@
 <?php
 
-namespace SkulZTeams\Join Ui X;
+namespace SkulZTeams\Join_Ui_X;
 
 /*
 
