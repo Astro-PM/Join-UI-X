@@ -1,0 +1,20 @@
+name: Join_UI
+main: SkulZTeams\Join_UI_X\main
+api: 4.0.0
+author: SkulZOnTheYt & AstroPMPL
+version: 1.0.0
+
+commands:
+  joinui:
+
+    description: use Command Join UI X
+
+    permission:joinui.use
+
+permission:
+
+  joinui.use:
+
+    description: Permission Use Command Join Ui X
+
+    default: true
