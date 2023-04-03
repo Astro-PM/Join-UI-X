@@ -10,7 +10,7 @@ This plugin is still in the development stage, if there is a bug, immediately re
 
 use pocketmine\server;
 
-use pocketmine\PLayer;
+use pocketmine\player\Player;
 
 use pocketmine\plugin\PluginBase;
 
@@ -19,6 +19,12 @@ use pocketmine\event\Listener;
 use pocketmine\command;
 
 use pocketmine\commnad\CommandSender;
+
+use jojoe77777\FormAPI\SimpleForm;
+
+use pocketmine\utils\Config;
+
+
 
 class main extends PluginBase  {
 
