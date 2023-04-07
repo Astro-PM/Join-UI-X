@@ -3,6 +3,10 @@ build-by-default: true
 branches:
 - main
 - master
-projects: []
+projects: [
+JoinUI-X:
+
+
+]
 
 ...
