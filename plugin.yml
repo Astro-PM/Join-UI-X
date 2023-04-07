@@ -2,7 +2,7 @@ name: Join_UI
 main: SkulZTeams\Join_UI_X\main
 api: 4.0.0
 author: SkulZOnTheYt & AstroPMPL
-version: 1.0.0
+version: 0.9.9
 
 commands:
   joinui:
