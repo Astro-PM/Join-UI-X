@@ -6,17 +6,12 @@ version: 0.9.9
 
 commands:
   joinui:
-
-    description: use Command Join UI X
-
-    permission:joinui.use
+   description: use Command Join UI X
+   permission:joinui.use
 
 permission:
-
   joinui.use:
-
     description: Permission Use Command Join Ui X
-
     default: true
 
 
