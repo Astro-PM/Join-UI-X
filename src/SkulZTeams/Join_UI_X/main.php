@@ -1,7 +1,7 @@
 
 <?php
 
-namespace SkulZTeams\Join_Ui_X;
+namespace SkulZTeams\Join_UI_X;
 
 /*
 This plugin is still in the development stage, if there is a bug, immediately report it to the issue to be fixed immediately, And for this release, it's version 1.0
