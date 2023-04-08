@@ -8,7 +8,7 @@ This plugin is still in the development stage, if there is a bug, immediately re
 
 */
 
-use pocketmine\server;
+use pocketmine\Server;
 
 use pocketmine\player\Player;
 
@@ -16,9 +16,9 @@ use pocketmine\plugin\PluginBase;
 
 use pocketmine\event\Listener;
 
-use pocketmine\command;
+use pocketmine\Command;
 
-use pocketmine\commnad\CommandSender;
+use pocketmine\Command\CommandSender;
 
 use jojoe77777\FormAPI\SimpleForm;
 
